@@ -11,4 +11,4 @@ exec docker run \
   -p 1701:1701/tcp \
   -p 127.0.0.1:5555:5555/tcp \
   -e SPW='yourmanagerpassword' \
-  siomiz/softethervpn:debian
+  shynome/softethervpn:4.29
